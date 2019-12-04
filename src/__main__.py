@@ -16,7 +16,7 @@ if __name__ == '__main__':
         # suggestion
         suggestion.suggest(table)
     else:
-        log.error('No correct csgo items remain. Please check if conditions are to strict.')
+        log.error('No correct csgo items remain. Please check if conditions are too strict.')
 
     # end
     end = datetime.datetime.now()
